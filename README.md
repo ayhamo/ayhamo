@@ -1,16 +1,7 @@
 Hi 👋 My name is Ayham Treter
 =============================
 
-Web and Mobile developer
-------------------------
-
-A Computer Engineer student in my 4th Year. Has found a passion for frontend development while in college. I continue to expand my skillset in many aspects such as backend and trying to work on A.I.
-
-* 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [will be added later](http://later.com)
-* ✉️  You can contact me at [ali1ali2ali123@hotmail.com](mailto:ali1ali2ali123@hotmail.com)
-* 🧠  I'm learning advanced Flutter
-* 🤝  I'm open to collaborating on Frontend apps
+A Computer Engineer student in my 4th Year.
 
 ### Skills
 
