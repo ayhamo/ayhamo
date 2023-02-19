@@ -1,4 +1,4 @@
-Hi 👋 My name is Ayham Treter
+Hi 👋
 =============================
 
 A Computer Engineer student in my 4th Year.
